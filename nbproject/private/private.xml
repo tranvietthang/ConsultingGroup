@@ -4,7 +4,8 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/E:/Study/Hoc/LabJavaWeb/ConsultingGroup/web/html/contact.jsp</file>
-            <file>file:/E:/Study/Hoc/LabJavaWeb/ConsultingGroup/web/css/style.css</file>
+            <file>file:/E:/Study/Hoc/LabJavaWeb/ConsultingGroup/src/java/dal/ContactDAO.java</file>
+            <file>file:/E:/Study/Hoc/LabJavaWeb/ConsultingGroup/src/java/controller/Contact.java</file>
         </group>
     </open-files>
 </project-private>

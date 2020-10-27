@@ -55,9 +55,9 @@ public class ContactDAO {
             conn = db.getConnection();
             String sql = "INSERT INTO [Message](name, email, message) VALUES (?, ?, ?)";
             st = conn.prepareStatement(sql);
-            st.setString(0, m.getName());
-            st.setString(1, m.getEmail());
-            st.setString(2, m.getMessage());
+            st.setString(1, m.getName());
+            st.setString(2, m.getEmail());
+            st.setString(3, m.getMessage());
             st.executeUpdate();
         } catch (Exception e) {
             throw e;

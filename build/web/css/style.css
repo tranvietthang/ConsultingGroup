@@ -174,3 +174,65 @@ h3{
     font-family: sans-serif;
     margin-bottom: 10px;
 }
+
+.section5{
+    margin-top: 20px;
+}
+
+.success{
+    background-color: #e1f5e1;
+}
+
+ #notice{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 35px;
+    width: 345px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+textarea{
+    height: 160px;
+    width: 700px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    resize: none;
+}
+
+button{
+    height: 35px;
+    width: 100px;
+    float: right;
+    margin-top: 20px;
+    color: white;
+    background-color: gray;
+    border-radius: 18px;
+    border: none;
+    cursor: pointer;
+}
+
+.sent{
+    background-color: yellow;
+    pointer-events: none;
+}
+
+.sent-mess{
+    background-color: gray;
+    pointer-events: none;
+}
+
+.clicked{
+    pointer-events: none;
+    opacity: 0.6;
+}
+
+
+
